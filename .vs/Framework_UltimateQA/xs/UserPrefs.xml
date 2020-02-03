@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{3AB23435-386E-4D8C-8BAA-DF747D69858F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Framework_UltimateQA/SampleApplicationPage.cs">
+    <Files>
+      <File FileName="Framework_UltimateQA/UnitTest1.cs" Line="49" Column="27" />
+      <File FileName="Framework_UltimateQA/SampleApplicationPage.cs" Line="5" Column="1" />
+      <File FileName="Framework_UltimateQA/UltimateQAHomePage.cs" Line="18" Column="67" />
+      <File FileName="Framework_UltimateQA/BaseSampleApplicationPage.cs" Line="15" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Framework_UltimateQA" expanded="True">
+            <Node name="Framework_UltimateQA" expanded="True">
+              <Node name="SampleApplicationPage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Framework_UltimateQA" expanded="True">
+            <Node name="Framework_UltimateQA" expanded="True">
+              <Node name="Framework_UltimateQA" expanded="True">
+                <Node name="FrameworkUltimateQA" expanded="True">
+                  <Node name="Submitting_Form_Redirects_To_Homepage" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Framework__UltimateQA PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
